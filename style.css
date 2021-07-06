@@ -1,0 +1,64 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.colourful-orange{
+    color: orange;
+}
+.flexible-portion{
+    display: flex;
+    margin-bottom: 80px;
+}
+.half-width{
+    width: 50%;
+    padding: 4%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    font-weight: 650px;
+    padding: 8px 15px;
+    border-radius: 20px;
+    color: white;
+}
+.half-width image{
+    width: 100%;
+}
+.About-us{
+    background-image: url(Images/Frame\ 57.jpg);
+    background-repeat: repeat;
+    background-position: top;
+}
+.My-Recipes{
+    text-align: center;
+    
+}
+.food-menu{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    box-shadow: 10px 10px 10px 10px gainsboro;
+}
+.footer-section{
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 200px;
+}
+.Dull-grey{
+    color: gray;
+}
+.white-font{
+    color: white;
+}
+.recipe-art p{
+    padding-right: 20%;
+    padding-left: 20%;
+    
+}
